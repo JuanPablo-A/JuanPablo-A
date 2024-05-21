@@ -13,7 +13,7 @@
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
-<a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0446.gif" border="0" width="100" alt="linea-imagen-animada-0446" /></a>
+<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0446.gif" border="0" alt="linea-imagen-animada-0446" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--
