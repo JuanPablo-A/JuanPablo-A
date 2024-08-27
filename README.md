@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
-**About me**
+<h2> About me </h2>
 
 <picture> <img align="right" src="https://www.udea.edu.co/wps/wcm/connect/udea/99fc43e7-7a64-45bd-97fc-96639b70813d/logosimbolo-vertical.png?MOD=AJPERES&CVID=ljeLvHr"  width = 50 px>
 
